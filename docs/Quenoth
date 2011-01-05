@@ -1,4 +1,4 @@
-﻿The purpose of this document is to give Kitty, 
+The purpose of this document is to give Kitty, 
 who is doing new portrait art for UTBS and Zeroviros, 
 who is doing new sprite art for UTBS ideas to work with.
 
@@ -114,27 +114,17 @@ Weapons:
 
 Since forge-able metal is rare swords are no longer used. 
 Instead spears with small blades are common. 
-Disposable projectiles of glass, easily mass-produced, are also used due to their relative ease to extract from commonly found sands. Blades of reinforced glass, carefully used to avoid direct impact and rather to inflict scrapes and cuts, can be used in place of metal blades.
 
 Quenoth elves no longer use bow and arrow since bowstrings can't stand the extreme temperature differences very well.
 They hunt with bolas.
 
-Units: 
-
-The faction probably needs more unit variety. The current tree isn't quite as large as any of the mainline factions.
-
-Ranged_specialist 
-name to be revised; designed to fill in a currently fragmented tactical niche. Basically, a unit based on ranged attacks, rather than the Hunter Sanddancer and Mystic which are half ranged-combat and half utility.
+Units:
 
 Hunter 
-Bolas, uses glass-claws with great finesse to prevent shattering.
 
 Fighter
-The basic melee dude. Apparently, this guy uses a spear-glaive-thing of some sort. Probably could use a bit more thinking, the weapon design is quite nebulous.
 
 Sanddancer
-
-Has magical powers- wields sand as a camouflage tactic and as a weapon. Scout unit for the faction.
 
 Mystic
 
@@ -146,7 +136,7 @@ and the skin is brighter.
 Mystic->Moon Shyde
 
 Regenerates at Night.
-Weapon: Cold Ranged (medium), Poison Slash Melee(weak, unit slashes directly with sharp moth wings), Flying
+Weapon: Cold Shock
 
 The Moon Shyde is devoted to the night (what a surprise) 
 making her skin even brighter than that of the rest of the mystics.
@@ -159,17 +149,14 @@ Suggsested reference for the artist:
 http://upload.wikimedia.org/wikipedia/commons/e/e6/Actias_luna_female_sjh.JPG
 
 Mystic->Sibyl
-The Sibyl advancement line does keep the neutral alignment of the mystic. Sibyl keeps blowgun poison attack.
+The Sibyl advancement line does keep the neutral alignment of the mystic.
 
 Mystic->Sibyl->Prophetess
-The prophetess has a sort of "Leech-Seed" ability. This is a special on a ranged attack. An enemy hit with it is poisoned for 4 HP and the Prophetess that seeded the enemy gains 4 HP per turn, to simulate continuous life-drain over time. This effect does not stack with multiple enemies thus inflicted. Not sure when the effect stops. One solution is to have village remove leechseed effect, another solution is to make a hard-set turn limit on the effect.
-
-This line is essentially the vanilla elven mage, with arcane attacks and plant-based slowing magic, as well as weak heals. Plays like a mix of Druid and Sorceress.
 
 Mystic->Sun Sylph
 
-Regenerates at Day. Strong ranged fire attack, not-so-strong in melee. The Sun Sylph gets concealment on specific terrains or some desert-modified equivalent, with fluff explanation being some sort of sunlight diffraction. Slightly more HP than the moon shyde too.
-Weapon: Fire aura (ranged strong), melee (weak)
+Regenerates at Day.
+Weapon: Fire aura 
 
 Wings from a dayactive butterfly.
 Suggsested references for the artist:
