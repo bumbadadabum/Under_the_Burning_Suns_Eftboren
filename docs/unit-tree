@@ -2,18 +2,27 @@ Unit Tree:
 
 Melee fighters: Hunter -> ? -> ?
                         \
-						 -> ? -> ?
+                         -> ? -> ?
 
 Ranged fighters: Archer -> ? -> ?
-                         \
-						  -> ? -> ?
 
 Scouts: Sand Dancer -> ? -> ?
                     \
-					 -> ? -> ?
+                     -> ? -> ?
 
                   -> ? -> ?
                  /
 Healers: Mystic -> ? -> ?
                  \
-				  -> ? -> ?
+                  -> ? -> ?
+
+
+Hunter line (melee fighters):
+
+The Hunter line is essentially a fusion between the old Fighter and Hunter lines. Like the Fighter line, there
+is a strong focus on melee. From the old Hunter line, we have the bolas, which provide impact damage and the slows
+weapon special. One branch focuses on leadership, while the other focuses on power. Wields swords.
+
+Archer line (ranged fighters):
+
+Just the good ol' archer line, but without the Ranger branch.
