@@ -1,14 +1,14 @@
 Unit Tree:
 
-Melee fighters: Hunter -> Captain -> Chief
+Melee fighters: Hunter -> Captain -> Chieftain
                         \
-                         -> Warrior -> Wolf
+                         -> Warrior -> ?
 
 Ranged fighters: Archer -> Marksman -> Sharpshooter
 
-Scouts: Sand Dancer -> Sand Mage -> Sand Master
+Scouts: Sand Dancer -> ? -> ?
                     \
-                     -> Sand Stalker -> Sand Assassin
+                     -> Stalker -> Assassin
 
                   -> ? -> ?
                  /
