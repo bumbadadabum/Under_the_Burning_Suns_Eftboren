@@ -4,9 +4,9 @@ Under the Burning Suns: Eftboren
 Under the Burning Suns: Eftboren (UtBS:E) is a modified mainline campaign for the 
 game [Battle for Wesnoth] [1].
 
-/"In the distant future a small band of elves struggles to survive amidst the ruins 
+"In the distant future a small band of elves struggles to survive amidst the ruins 
 of fallen empires. Lead your people out of the desert on an epic journey to find a 
-new home."/
+new home."
 
 [1]: <https://www.wesnoth.org>
 
