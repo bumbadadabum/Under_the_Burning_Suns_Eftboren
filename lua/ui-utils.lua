@@ -14,7 +14,7 @@ function wesnoth.theme_items.unit_status()
 
 	if u.status.dehydrated then
 		table.insert(s, { "element",  { image = "misc/dehydration-status.png",
-		                                tooltip = _"dehydrated: This unit is dehydrated. Its attack power has been reduced until it has been rehydrated."
+		                                tooltip = _"dehydrated: This unit is dehydrated. Its attack power has been reduced until it is rehydrated."
 		} } )
 	end
 		
